@@ -1,0 +1,64 @@
+[
+    {
+        "_id": "objectID561234578951",
+        "userId": "460012311",
+        "frontend": [
+            {
+                "HTML": [
+                    {
+                        "tested": true
+                    },
+                    {
+                        "score": 50
+                    },
+                    {
+                        "ratio": 10
+                    },
+                    {
+                        "testId": 123456
+                    }
+                ]
+            },
+            {
+                "React": [
+                    {
+                        "Redux": [
+                            {
+                                "tested": true
+                            },
+                            {
+                                "score": 50
+                            },
+                            {
+                                "ratio": 10
+                            },
+                            {
+                                "testId": 123457
+                            }
+                        ]
+                    },
+                    {
+                        "ReactData": [
+                            {
+                                "tested": true
+                            },
+                            {
+                                "score": 50
+                            },
+                            {
+                                "ratio": 10
+                            },
+                            {
+                                "testId": 123458
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "backend": [],
+        "DevOps": [],
+        "Database": [],
+        "SoftSkill": []
+    }
+]
